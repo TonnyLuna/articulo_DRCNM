@@ -3,44 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: example.aux
 The style file: cys.bst
 Database file #1: biblio.bib
-You've used 2 entries,
+Warning--there's a number but no volume in alexeev2018end
+You've used 9 entries,
             2690 wiz_defined-function locations,
-            588 strings with 5246 characters,
-and the built_in function-call counts, 1104 in all, are:
-= -- 82
-> -- 30
-< -- 1
-+ -- 12
-- -- 10
-* -- 67
-:= -- 142
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 10
+            624 strings with 6924 characters,
+and the built_in function-call counts, 4526 in all, are:
+= -- 309
+> -- 236
+< -- 0
++ -- 93
+- -- 84
+* -- 334
+:= -- 626
+add.period$ -- 27
+call.type$ -- 9
+change.case$ -- 65
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 97
-empty$ -- 109
-format.name$ -- 11
-if$ -- 243
+cite$ -- 10
+duplicate$ -- 377
+empty$ -- 363
+format.name$ -- 92
+if$ -- 904
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 20
-newline$ -- 19
-num.names$ -- 4
-pop$ -- 41
+int.to.str$ -- 9
+missing$ -- 91
+newline$ -- 54
+num.names$ -- 18
+pop$ -- 180
 preamble$ -- 1
-purify$ -- 9
+purify$ -- 59
 quote$ -- 0
-skip$ -- 31
+skip$ -- 81
 stack$ -- 0
-substring$ -- 49
-swap$ -- 53
-text.length$ -- 1
+substring$ -- 108
+swap$ -- 229
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 6
-warning$ -- 0
-while$ -- 9
-width$ -- 3
-write$ -- 32
+type$ -- 30
+warning$ -- 1
+while$ -- 23
+width$ -- 10
+write$ -- 103
+(There was 1 warning)

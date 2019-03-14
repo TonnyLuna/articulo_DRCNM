@@ -9,16 +9,60 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
-\bibitem{hulth:2003}
-\textbf{Hulth, A.}\textbf{ (2003).}
-\newblock Improved automatic keyword extraction given more linguistic
-  knowledge.
-\newblock \emph{Proceedings of EMNLP'03}, ACL, pp.~10--20.
+\bibitem{alexeev2018end}
+\textbf{Alexeev, V., Staravoitau, A., Piskun, G., \& Likhacheuski, D.}\textbf{
+  (2018).}
+\newblock End to end learning for a driving simulator.
+\newblock \emph{Reports of the Belarusian State University of Informatics and
+  Radioelectronics}, , No.~2 (112).
 
-\bibitem{rose:2010}
-\textbf{Stuart, R., Dave, E., Nick, C., \& Wendy, C.}\textbf{ (2010).}
-\newblock \emph{Text Mining}, chapter Automatic Keyword Extraction from
-  Individual Documents.
-\newblock John Wiley \& Sons, Ltd, pp.~1--20.
+\bibitem{bianchi2017recurrent}
+\textbf{Bianchi, F.~M., Maiorino, E., Kampffmeyer, M.~C., Rizzi, A., \&
+  Jenssen, R.}\textbf{ (2017).}
+\newblock \emph{Recurrent Neural Networks for Short-Term Load Forecasting: An
+  Overview and Comparative Analysis}.
+\newblock Springer.
+
+\bibitem{bojarski2016end}
+\textbf{Bojarski, M., Del~Testa, D., Dworakowski, D., Firner, B., Flepp, B.,
+  Goyal, P., Jackel, L.~D., Monfort, M., Muller, U., Zhang, J., et~al.}\textbf{
+  (2016).}
+\newblock End to end learning for self-driving cars.
+\newblock \emph{arXiv preprint arXiv:1604.07316}.
+
+\bibitem{bojarski2017explaining}
+\textbf{Bojarski, M., Yeres, P., Choromanska, A., Choromanski, K., Firner, B.,
+  Jackel, L., \& Muller, U.}\textbf{ (2017).}
+\newblock Explaining how a deep neural network trained with end-to-end learning
+  steers a car.
+\newblock \emph{arXiv preprint arXiv:1704.07911}.
+
+\bibitem{bonet2007redes}
+\textbf{Bonet~Cruz, I., Salazar~Mart{\'\i}nez, S., Rodr{\'\i}guez~Abed, A.,
+  Grau~{\'A}balo, R., \& Garc{\'\i}a~Lorenzo, M.~M.}\textbf{ (2007).}
+\newblock Redes neuronales recurrentes para el an{\'a}lisis de secuencias.
+\newblock \emph{Revista Cubana de Ciencias Inform{\'a}ticas}, Vol.~1, No.~4.
+
+\bibitem{hochreiter1997long}
+\textbf{Hochreiter, S. \& Schmidhuber, J.}\textbf{ (1997).}
+\newblock Long short-term memory.
+\newblock \emph{Neural computation}, Vol.~9, No.~8, pp.~1735--1780.
+
+\bibitem{pattanayak2017pro}
+\textbf{Pattanayak, S., Pattanayak, \& John, S.}\textbf{ (2017).}
+\newblock \emph{Pro Deep Learning with TensorFlow}.
+\newblock Springer.
+
+\bibitem{spiegel1991estadistica}
+\textbf{Spiegel, M.~R.}\textbf{ (1991).}
+\newblock \emph{Estad{\'\i}stica}.
+\newblock McGraw-Hill Interamericana,.
+
+\bibitem{tian2018deeptest}
+\textbf{Tian, Y., Pei, K., Jana, S., \& Ray, B.}\textbf{ (2018).}
+\newblock Deeptest: Automated testing of deep-neural-network-driven autonomous
+  cars.
+\newblock \emph{Proceedings of the 40th International Conference on Software
+  Engineering}, ACM, pp.~303--314.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.10.11)  7 MAR 2019 11:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.10.11)  14 MAR 2019 10:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -593,6 +593,14 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen128
 \Gin@req@width=\dimen129
 )
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+\c@subfigure=\count100
+\c@subtable=\count101
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen130
+)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
 
@@ -640,28 +648,28 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
-(./example.aux
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 19.
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+(./example.aux)
 \openout1 = `example.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 42.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 42.
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 42.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -705,99 +713,237 @@ Package caption Info: End \AtBeginDocument code.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count100
-\scratchdimen=\dimen130
+\scratchcounter=\count102
+\scratchdimen=\dimen131
 \scratchbox=\box31
-\nofMPsegments=\count101
-\nofMParguments=\count102
+\nofMPsegments=\count103
+\nofMParguments=\count104
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count103
-\MPscratchDim=\dimen131
-\MPnumerator=\count104
-\makeMPintoPDFobject=\count105
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen132
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
 \everyMPtoPDFconversion=\toks21
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 45.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 45.
+(Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 45.
+(Font)              <5> on input line 44.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 59.
- <foto.JPG, id=1, 94.85437pt x 88.83188pt>
-File: foto.JPG Graphic file (type jpg)
- <use foto.JPG>
-Package pdftex.def Info: foto.JPG used on input line 87.
-(pdftex.def)             Requested size: 47.206pt x 44.2098pt.
-LaTeX Font Info:    Try loading font information for T2A+phv on input line 94.
-LaTeX Font Info:    No file T2Aphv.fd. on input line 94.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 58.
+ <img/reactive.png, id=1, 399.4925pt x 383.4325pt>
+File: img/reactive.png Graphic file (type png)
+ <use img/reactive.png>
+Package pdftex.def Info: img/reactive.png used on input line 76.
+(pdftex.def)             Requested size: 103.84744pt x 99.67255pt.
+
+<img/recurrent.png, id=3, 541.02126pt x 537.00626pt>
+File: img/recurrent.png Graphic file (type png)
+ <use img/recurrent.png>
+Package pdftex.def Info: img/recurrent.png used on input line 81.
+(pdftex.def)             Requested size: 99.59789pt x 98.85295pt.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-LaTeX Font Warning: Font shape `T2A/phv/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 94.
+ <./img/reactive.png> <./img/recurrent.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 106.
+ []
+
+[2]
+
+LaTeX Warning: Reference `fig:chauffeur' on page 3 undefined on input line 187.
+
+
+<img/pilotnet.png, id=24, 581.17125pt x 725.71124pt>
+File: img/pilotnet.png Graphic file (type png)
+ <use img/pilotnet.png>
+Package pdftex.def Info: img/pilotnet.png used on input line 190.
+(pdftex.def)             Requested size: 191.7871pt x 239.48544pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./img/pilotnet.png>] [4] <img/pilotnet1.png, id=32, 562.1pt x 437.635pt>
+File: img/pilotnet1.png Graphic file (type png)
+
+<use img/pilotnet1.png>
+Package pdftex.def Info: img/pilotnet1.png used on input line 340.
+(pdftex.def)             Requested size: 151.05345pt x 117.6021pt.
+ <img/pilotnet2.png, id=33, 562.1pt x 436.63126pt>
+File: img/pilotnet2.png Graphic file (type png)
+
+<use img/pilotnet2.png>
+Package pdftex.def Info: img/pilotnet2.png used on input line 345.
+(pdftex.def)             Requested size: 151.05345pt x 117.33237pt.
+ <img/chauffeur3.png, id=34, 542.025pt x 429.605pt>
+File: img/chauffeur3.png Graphic file (type png)
+
+<use img/chauffeur3.png>
+Package pdftex.def Info: img/chauffeur3.png used on input line 350.
+(pdftex.def)             Requested size: 151.05345pt x 119.72482pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+[]\OT1/phv/b/n/9 (c) |\OT1/phv/m/n/9 Chauf-feur 3 steps, largest
+ []
+
+<img/chauffeur5.png, id=35, 560.0925pt x 436.63126pt>
+File: img/chauffeur5.png Graphic file (type png)
+ <use img/chauffeur5.png>
+Package pdftex.def Info: img/chauffeur5.png used on input line 355.
+(pdftex.def)             Requested size: 151.05345pt x 117.75876pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--356
+[]\OT1/phv/b/n/9 (d) |\OT1/phv/m/n/9 Chauf-feur 5 steps, largest
+ []
+
+<img/chauffeur3m.png, id=36, 558.085pt x 438.63875pt>
+File: img/chauffeur3m.png Graphic file (type png)
+
+<use img/chauffeur3m.png>
+Package pdftex.def Info: img/chauffeur3m.png used on input line 360.
+(pdftex.def)             Requested size: 151.05345pt x 118.72183pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[]\OT1/phv/b/n/9 (e) |\OT1/phv/m/n/9 Chauf-feur 3 steps, shorter
+ []
+
+<img/chauffeur5m.png, id=37, 563.10374pt x 433.62pt>
+File: img/chauffeur5m.png Graphic file (type png)
+ <use img/chauffeur5m.png>
+Package pdftex.def Info: img/chauffeur5m.png used on input line 365.
+(pdftex.def)             Requested size: 151.05345pt x 116.31807pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--366
+[]\OT1/phv/b/n/9 (f) |\OT1/phv/m/n/9 Chauf-feur 5 steps, shorter
+ []
+
 (./example.bbl
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 16.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 17.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+[]\OT1/phv/b/n/9 Bonet Cruz, I., Salazar Mart^^S^^Pnez, S.,
+ []
 
 
- <./foto.JPG>])
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+\OT1/phv/b/n/9 Rodr^^S^^Pguez Abed, A., Grau []Abalo, R., &
+ []
+
+)
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 157.
-Extra height:10.0pt when 86.9249pt
-Extra height:10.0pt when 87.9249pt
-Extra height:10.0pt when 88.9249pt
-Extra height:0.0pt when 89.9249pt
-(2)Left:89.9249pt Right:93.378pt Output:89.9249pt
-(2)Left:93.378pt Right:93.378pt Output:93.378pt
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 421.
+Extra height:83.378pt when 472.8005pt
+Extra height:83.378pt when 473.8005pt
+Extra height:83.378pt when 474.8005pt
+Extra height:83.378pt when 475.8005pt
+Extra height:43.34903pt when 476.8005pt
+Extra height:43.34903pt when 477.8005pt
+Extra height:43.34903pt when 478.8005pt
+Extra height:43.34903pt when 479.8005pt
+Extra height:43.34903pt when 480.8005pt
+Extra height:43.34903pt when 481.8005pt
+Extra height:43.34903pt when 482.8005pt
+Extra height:43.34903pt when 483.8005pt
+Extra height:43.34903pt when 484.8005pt
+Extra height:43.34903pt when 485.8005pt
+Extra height:43.34903pt when 486.8005pt
+Extra height:43.34903pt when 487.8005pt
+Extra height:43.34903pt when 488.8005pt
+Extra height:43.34903pt when 489.8005pt
+Extra height:43.34903pt when 490.8005pt
+Extra height:43.34903pt when 491.8005pt
+Extra height:43.34903pt when 492.8005pt
+Extra height:43.34903pt when 493.8005pt
+Extra height:43.34903pt when 494.8005pt
+Extra height:43.34903pt when 495.8005pt
+Extra height:43.34903pt when 496.8005pt
+Extra height:43.34903pt when 497.8005pt
+Extra height:43.34903pt when 498.8005pt
+Extra height:43.34903pt when 499.8005pt
+Extra height:43.34903pt when 500.8005pt
+Extra height:43.34903pt when 501.8005pt
+Extra height:43.34903pt when 502.8005pt
+Extra height:43.34903pt when 503.8005pt
+Extra height:43.34903pt when 504.8005pt
+Extra height:43.34903pt when 505.8005pt
+Extra height:43.34903pt when 506.8005pt
+Extra height:43.34903pt when 507.8005pt
+Extra height:43.34903pt when 508.8005pt
+Extra height:43.34903pt when 509.8005pt
+Extra height:43.34903pt when 510.8005pt
+Extra height:43.34903pt when 511.8005pt
+Extra height:43.34903pt when 512.8005pt
+Extra height:43.34903pt when 513.8005pt
+Extra height:43.34903pt when 514.8005pt
+Extra height:43.34903pt when 515.8005pt
+Extra height:43.34903pt when 516.8005pt
+Extra height:43.34903pt when 517.8005pt
+Extra height:43.34903pt when 518.8005pt
+Extra height:43.34903pt when 519.8005pt
+Extra height:43.34903pt when 520.8005pt
+Extra height:43.34903pt when 521.8005pt
+Extra height:21.27998pt when 522.8005pt
+Extra height:21.27998pt when 523.8005pt
+Extra height:21.27998pt when 524.8005pt
+Extra height:21.27998pt when 525.8005pt
+Extra height:21.27998pt when 526.8005pt
+Extra height:21.27998pt when 527.8005pt
+Extra height:21.27998pt when 528.8005pt
+Extra height:21.27998pt when 529.8005pt
+Extra height:21.27998pt when 530.8005pt
+Extra height:21.27998pt when 531.8005pt
+Extra height:21.27998pt when 532.8005pt
+Extra height:0.0pt when 533.8005pt
+(2)Left:533.8005pt Right:545.4615pt Output:533.8005pt
+(2)Left:545.4615pt Right:430.378pt Output:545.4615pt
 - LAST -
 Extra skip:0.0pt
-Left:93.378pt
-Right:93.378pt
-Output:93.378pt
- [2
+Left:545.4615pt
+Right:430.378pt
+Output:545.4615pt
+ [5] [6] [7 <./img/pilotnet1.png> <./img/pilotnet2.png> <./img/chauffeur3.png> 
+<./img/chauffeur5.png> <./img/chauffeur3m.png> <./img/chauffeur5m.png>]
+(./example.aux)
 
-] (./example.aux)
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+LaTeX Warning: There were undefined references.
 
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 156 ({)
+### simple group (level 1) entered at line 420 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4808 strings out of 493304
- 67994 string characters out of 6139870
- 135213 words of memory out of 5000000
- 8186 multiletter control sequences out of 15000+600000
- 22161 words of font info for 36 fonts, out of 8000000 for 9000
+ 4935 strings out of 493304
+ 70289 string characters out of 6139870
+ 157343 words of memory out of 5000000
+ 8303 multiletter control sequences out of 15000+600000
+ 18676 words of font info for 32 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 43i,8n,40p,301b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/us
-r/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/helvetic/uhvro8a.pfb>
-Output written on example.pdf (2 pages, 101529 bytes).
+ 43i,9n,40p,747b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhv
+b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on example.pdf (7 pages, 340470 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
